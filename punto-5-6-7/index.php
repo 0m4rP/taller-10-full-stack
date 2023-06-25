@@ -7,6 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <h1>Proyecto Base de datos</h1>
+    <?php include "./service/connection.php" ?> 
 </body>
 </html>
