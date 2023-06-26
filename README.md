@@ -4,6 +4,7 @@
 <p>Curso: Full Stack Basico — Grupo 1<p>
 <p>Profesor: Cristian Patiño</p>
 <h2>Punto 1: </h2>
+<img src="./public/images/operacion.png" alt="operacion">
 <h2>Punto 2: </h2>
 <h2>Punto 3: </h2>
 <h2>Punto 4: </h2>
@@ -19,3 +20,4 @@
 <h3>7 - Muestra de datos en pantalla</h3>
 
 <img src="./public/images/bd.png" alt="muestra-de-datos"> 
+
