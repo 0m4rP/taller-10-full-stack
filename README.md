@@ -6,8 +6,11 @@
 <h2>Punto 1: </h2>
 <img src="./public/images/operacion.png" alt="operacion">
 <h2>Punto 2: </h2>
+<img src="./public/images/mayor.png" alt="mayor">
 <h2>Punto 3: </h2>
+<img src="./public/images/datos.png" alt="datos">
 <h2>Punto 4: </h2>
+<img src="./public/images/fecha.png" alt="fecha">
 <h2>Punto 5-6-7: </h2>
 <h3>5 - Base de datos</h3>
 
